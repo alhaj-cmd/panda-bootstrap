@@ -1,0 +1,13 @@
+.content-arial{
+    background-color:#fceae8;
+}
+.icon {
+    position: relative;
+}
+  
+.icon i{
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    color: gray;
+}
